@@ -1,0 +1,25 @@
+{
+  "name": "bitcraft-companion",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/yLordMagnus/BitCraft-Companion#readme",
+  "bugs": {
+    "url": "https://github.com/yLordMagnus/BitCraft-Companion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yLordMagnus/BitCraft-Companion.git"
+  },
+  "license": "MIT",
+  "author": "yMagnus",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "discord.js": "^14.21.0",
+    "quick.db": "^9.1.7"
+  }
+}
