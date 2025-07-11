@@ -1,0 +1,39 @@
+interactions:
+  ids:
+    profile: "profile"
+    profile_target: "target"
+    create_profile: "create_profile"
+    reject: "reject"
+    username_modal: "username_modal"
+    username: "username"
+    select_roles: "select_roles"
+    submit_roles: "submit_roles"
+  texts:
+    profile: "Create your profile or check other profiles."
+    profile_target: "Mention or in-game name."
+    create_profile: "Create"
+    yes: "Yes"
+    no: "No"
+    accept: "Accept"
+    reject: "Reject"
+    submit: "Submit"
+    cancel: "Cancel"
+    continue: "Continue"
+    username: "Username"
+    no_profile: "Your profile doesn't exist yet!\n**Do you want to create it?**"
+    request_roles_title: "Nice to meet you, %username%!"
+    request_roles_description: "**Please choose below your main professions in-game!**\nClick __Continue__ if you don't have focus profession."
+    profile_modal_title: "Create your profile!"
+
+emojis:
+  approval: "<:armamc_aprovado:1000224262801608835>"
+  disapproval: "<:armamc_reprovado:1000224274839244800>"
+  warning: "<:armamc_aviso:991130843730944010>"
+  loading: "<:armamc_aguardando:1000205331047137290>"
+  announcement: "<:armamc_anuncio:1330678618220920895>"
+
+roles:
+  ids:
+    forester: "forester"
+  texts:
+    forester: "Forester"
